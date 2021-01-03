@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="serverurl">http://172.16.225.2:9000/NewsInfo.json</string>
+</resources>
